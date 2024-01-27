@@ -1,0 +1,1 @@
+Neste projeto, desenvolvi um sistema de reconhecimento facial usando redes neurais convolucionais. O sistema é capaz de identificar faces em imagens e associá-las a indivíduos conhecidos, demonstrando alta precisão.
